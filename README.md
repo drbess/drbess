@@ -3,7 +3,8 @@
 <!--
 **drbess/drbess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/8980473/127954823-ee46471a-e9f9-4a71-b6f6-ff1efaf55fef.png)
+">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/8980473/127954823-ee46471a-e9f9-4a71-b6f6-ff1efaf55fef.png)
-">
+  
