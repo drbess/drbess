@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/8980473/127954823-ee46471a-e9f9-4a71-b6f6-ff1efaf55fef.png)
+">
