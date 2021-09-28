@@ -3,5 +3,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drbess&label=Profile%20views&color=0e75b6&style=flat" alt="drbess" /> </p>
 
-- 🔭 I’m currently working on [python_cafe](https://github.com/drbess/python_cafe.git)
-
